@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @VictorMateu
 - 👀 I’m interested in games and software world
-- 🌱 I’m currently learning Software Engineering
+- 🌱 Software Engineer but always learning new thigs
 
 <!---
 VictorMateu/VictorMateu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
